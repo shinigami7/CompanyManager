@@ -1,0 +1,8 @@
+E	Jan	Kowalski	70.49	3	3500.25	24	3	1990
+H	Adam	Nowak 	11.20	120	24	3	1990
+E	Ewa	Nowak 	12.50	2	2200.29	30	4	2000
+H	Harry	z_Tybetu 	59.99	168	16	12	2014
+H	James	Bond 	520.13	10	9	9	1999
+E	Albert	Einstein 	17.01	7	2000.01	20	5	1995
+H	Nicolai	Tesla 	50.01	168	2	3	2013	
+H	Johnny	Bravo 	99.99	99	9	9	2012
