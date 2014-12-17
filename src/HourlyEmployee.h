@@ -13,8 +13,13 @@ public:
 	void printInfo() override;
 private:
 	void hire() override;
+<<<<<<< HEAD
 	double per_hour;
 	unsigned int hours_per_month;
+=======
+	double na_godzine;
+	unsigned int godzin_w_miesiacu;
+>>>>>>> 66ad7b7d9f336b3ad50dd0f125e05f0c6bc267b3
 };
 
 #endif /* HOURLYEMPLOYEE_H_ */
